@@ -1,6 +1,6 @@
 {
-  "homepage": "https://aneesm.github.io/react-ui-components/",
-  "name": "react-ui-components",
+  "homepage": "https://aneesm.github.io/react-ui-interaction/",
+  "name": "react-ui-interaction",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
