@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "homepage": "https://aneesm.github.io/react-ui-components/",
+  "name": "react-ui-components",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +16,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -36,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "gsap": "^3.7.1",
     "node-sass": "^6.0.1",
     "react-enhanced-numeric-input": "^1.2.4",
