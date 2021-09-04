@@ -15,7 +15,7 @@
     height: 35px;
     margin: 0;
     padding: 0;
-    right: 40px;
+    right: 20px;
     top: 20px;
     width: 35px;
 
@@ -29,6 +29,7 @@
     &:after {
       background: $black;
       content: '';
+      display: block;
       height: 2px;
       width: 100%;
     }
