@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-ui-components/static/css/main.3a0b2846.chunk.css",
+    "main.js": "/react-ui-components/static/js/main.4442a09e.chunk.js",
+    "main.js.map": "/react-ui-components/static/js/main.4442a09e.chunk.js.map",
+    "runtime-main.js": "/react-ui-components/static/js/runtime-main.25fd1381.js",
+    "runtime-main.js.map": "/react-ui-components/static/js/runtime-main.25fd1381.js.map",
+    "static/css/2.cc58ff99.chunk.css": "/react-ui-components/static/css/2.cc58ff99.chunk.css",
+    "static/js/2.1d2d3df0.chunk.js": "/react-ui-components/static/js/2.1d2d3df0.chunk.js",
+    "static/js/2.1d2d3df0.chunk.js.map": "/react-ui-components/static/js/2.1d2d3df0.chunk.js.map",
+    "static/js/3.c203d651.chunk.js": "/react-ui-components/static/js/3.c203d651.chunk.js",
+    "static/js/3.c203d651.chunk.js.map": "/react-ui-components/static/js/3.c203d651.chunk.js.map",
+    "index.html": "/react-ui-components/index.html",
+    "static/css/2.cc58ff99.chunk.css.map": "/react-ui-components/static/css/2.cc58ff99.chunk.css.map",
+    "static/css/main.3a0b2846.chunk.css.map": "/react-ui-components/static/css/main.3a0b2846.chunk.css.map",
+    "static/js/2.1d2d3df0.chunk.js.LICENSE.txt": "/react-ui-components/static/js/2.1d2d3df0.chunk.js.LICENSE.txt",
+    "static/media/shoe.9eb624f5.webp": "/react-ui-components/static/media/shoe.9eb624f5.webp",
+    "static/media/shoe.f99c44e2.png": "/react-ui-components/static/media/shoe.f99c44e2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25fd1381.js",
+    "static/css/2.cc58ff99.chunk.css",
+    "static/js/2.1d2d3df0.chunk.js",
+    "static/css/main.3a0b2846.chunk.css",
+    "static/js/main.4442a09e.chunk.js"
+  ]
+}
